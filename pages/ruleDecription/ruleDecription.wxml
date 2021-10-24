@@ -1,0 +1,4 @@
+<view class="container">
+  <image value="name" class='background'  src='https://i.loli.net/2021/10/24/3MN5cCjuoSVLghd.jpg' style="opacity:{{0.5}}"></image>
+  <button class="back" bindtap="back">返回</button>
+</view>
